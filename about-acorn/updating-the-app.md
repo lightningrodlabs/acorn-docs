@@ -6,7 +6,7 @@ description: Automated and manual flows for updating Acorn
 
 ## Automatic Updates
 
-The Acorn app will automatically update if the Holochain versions remain compatible, which should be indicated by the major release number remaining the same.
+The Acorn app will automatically update if the Holochain versions remain compatible, which should be indicated by the minor release number remaining the same.
 
 ## Manual Updates
 
