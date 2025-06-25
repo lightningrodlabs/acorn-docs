@@ -10,7 +10,7 @@ The Acorn app will automatically update if the Holochain versions remain compati
 
 ## Manual Updates
 
-When a new Major release comes out, you will have to manually migrate project data from an older version.  
+When a new Minor or Major release comes out, you will currently have to manually migrate project data from an older version.  
 
 To update the app to the new version while keeping your projects' data, you would need to do the following:
 
